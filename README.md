@@ -1,7 +1,7 @@
 <h1>Active Directory - Bulk User Creation</h1>
 
 <h2>Description</h2>
-In this lab we're going to walk you through how to create an an Active Directory lab environment and quickly add 1,000 users with a Powershell script using Oracle Virtual Box. 
+In this lab I;ll walk you through how to create an Active Directory lab environment and quickly add 1,000 users with a Powershell script using Oracle Virtual Box. 
 <br />
 
 
